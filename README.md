@@ -1,8 +1,8 @@
 ## Intro
 
-![ChatBot.png](ChatBot.png)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)& [Zendesk Webwidget](https://developer.zendesk.com/api-reference).
+
+![ChatBot.png](ChatBot.png)
 
 ## Installation
 
