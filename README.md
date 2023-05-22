@@ -1,7 +1,5 @@
-![ChatBot.png](https://github.com/NicoletMK/Strings-and-Words/blob/a5f4e2f780b50dc5ac44c32b7c5b74ecb1464ef6/Test%20Result.png)
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![ChatBot.png](ChatBot.png)
 
 ## Available Scripts
 
