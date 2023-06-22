@@ -2,9 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)& [Zendesk Webwidget](https://developer.zendesk.com/api-reference).
 
-![DockerLog.png](DockerLog.png)
-![DockerAppLog.png](DockerLog1.png)
-![VPN.png](VPN.png)
+![ChatBot.png](ChatBot.png)
 ## Installation
 
 npm i react-zendesk --save
